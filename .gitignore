@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project reference files (uncomment if you want to include these in repo)
+# Generated images/
+# Image mockups/
+# Project/
+
+# Local configuration
+.env
+.idea/
+.vscode/
+*.swp
+*.bak
