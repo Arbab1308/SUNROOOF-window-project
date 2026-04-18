@@ -20,11 +20,10 @@ A premium, performance-optimized, and fully animated B2B industrial website for 
 
 ## 📁 Directory Structure
 
-- `website/`: Main project source code.
-  - `index.html`: Main entry point.
-  - `css/`: Custom design system and component styles.
-  - `js/`: Core logic and GSAP animation timelines.
-  - `assets/`: Optimized images, SVG drawings, and product documents.
+- `website/`: Main project source code (HTML, CSS, JS, Assets).
+- `Generated images/`: Reference assets and AI-generated design iterations.
+- `Image mockups/`: High-fidelity UI/UX design mockups.
+- `Project/`: Project management and additional documentation.
 
 ## 🚀 Getting Started
 
